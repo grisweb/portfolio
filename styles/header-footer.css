@@ -150,7 +150,6 @@ footer {
         justify-content: center;
         padding: 10px 0;
     }
-
     .menu {
         justify-content: center;
     }
@@ -186,6 +185,7 @@ footer {
     .menu-vertical.hidden {
         top: -100px;
     }
+
     .menu-vertical {
         top: 75px;
         margin: 0;
@@ -242,20 +242,3 @@ footer {
         top: 65px;
     }
 }
-
-
-
-
-
-@media (max-width:  760px) {
-
-}
-
-
-
-@media (max-width: 500px) {
-
-
-}
-
-
